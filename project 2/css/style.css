@@ -6,3 +6,23 @@
 	background-repeat: none;
 }
 
+.login-form {
+	top: 5em;
+	border: 1px 1px 1px 1px black;
+	box-shadow: 0em 0em 1em black;
+	padding: 20px 20px 20px 20px;
+
+}
+
+.login-form-header {
+	background: #2a2a2a;
+	color: #5d5d5d;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 10px;
+	height: 100%;
+	top: 80px;
+	position: relative;
+}
